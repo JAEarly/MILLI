@@ -1,0 +1,14 @@
+latextable
+matplotlib
+numpy
+pandas
+Pillow
+scikit-learn
+scipy
+texttable
+torch
+torchvision
+tqdm
+overrides
+optuna
+paramiko
