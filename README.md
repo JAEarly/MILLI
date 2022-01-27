@@ -17,6 +17,14 @@ We use five custom data set implementations:
 all inherit from `mil_dataset.py`. 
 Rather than returning a single instance, they return a bag of instances and a single label.
 
+Sources:
+* SIVAL: http://pages.cs.wisc.edu/~bsettles/data/
+* MNIST: https://pytorch.org/vision/stable/datasets.html#mnist
+* CRC: https://warwick.ac.uk/fac/cross_fac/tia/data/crchistolabelednucleihe/
+* Musk: https://archive.ics.uci.edu/ml/datasets/Musk+%28Version+2%29
+* Tiger, Elephant and Fox: http://www.cs.columbia.edu/~andrews/mil/datasets.html
+
+
 ### Models and training
 
 The models are implemented in `src/model`.
