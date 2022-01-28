@@ -1,6 +1,9 @@
 # MIL Model Agnostic Interpretability
 
-This repo contains the code for "Model Agnostic Interpretability for Multiple Instance Learning".
+This repo contains the code for "Model Agnostic Interpretability for Multiple Instance Learning".  
+Paper: https://arxiv.org/abs/2201.11701
+
+![main_img](./repo_img.png)
 
 ### Overview
 
